@@ -269,7 +269,7 @@ return [
         | will be accessible from.
         |
         */
-        'path' => 'console/admin/manage/roles-permissions',
+        'path' => 'admin/console/manage/roles-permissions',
 
         /*
         |--------------------------------------------------------------------------
@@ -279,7 +279,7 @@ return [
         | The route where the go back link should point
         |
         */
-        'go_back_route' => 'console/admin/dashboard',
+        'go_back_route' => 'admin/console/dashboard',
 
         /*
         |--------------------------------------------------------------------------

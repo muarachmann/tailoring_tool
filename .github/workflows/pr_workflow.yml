@@ -31,6 +31,7 @@ jobs:
 
       - name: Copy .env && Generate keys (Application and Passport)
         run: |
+          cp .env.ci .env
           php artisan key:generate
 
       - name: Install NPM Dependencies

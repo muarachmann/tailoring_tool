@@ -18,8 +18,7 @@ return [
    | Users Settings
    |--------------------------------------------------------------------------
    |
-   | You may state parameters such as the minimum number of days a user can stay banned, minimum
-   | transaction amount, max number of transactions a day etc
+   | You may state parameters such as the minimum number of days a user can stay banned, measurement units etc
    |
    |
    */
